@@ -1,15 +1,14 @@
 # Why Machine Learning?
 
-### How can I apply it to my daily life?
+### How can I apply ML to my life?
  - Trending Skill for Data Scientists
  - Contribute to the field of Articial Intelligence (build a robot for example)
  - ML used for app recommenders - Learning from pattern recognition (Products from Netflix, Amazon, Google, etc)
  - Computer Vision - Automous Cars, Drones, Image Recognition
  - Natural Language Processing - Digital Voice Assistant - Smart Speaker
- - Neural Networks - Deep Learning
+ - Neural Networks - Deep Learning - subset of Machine Learning
  
 <p align="center"><img src="https://user-images.githubusercontent.com/25274772/51422952-09202e80-1b6d-11e9-960a-c2fbdd1655a4.png" width="300" height="300" />
-
 
 ### What skills do I need?
 
@@ -22,7 +21,8 @@
 ### How to Study
  - Find your motivation(why)
  - Find some friends to stay motivated (who)
- - Express your progress daily and weekly (for example, Meetup/Github/Youtube What, When, Where)
+ - Express your progress daily and weekly (for example, Meetup/Github/Youtube When & Where)
+ - Choose a discipline - machine learning has lots of free resources (What)
  - Follow a circulum (How)
 
 ## Top learning resources for machine learning to get you started
