@@ -19,13 +19,13 @@
 - ML is a long journey. At least 10,000+ hours is the short answer (5-10 years full time)
 - You can make a serious impact in a year by dedicating a few hours a day with these resources.
 
-## How to Study
+### How to Study
  - Find your motivation(why)
  - Find some friends to stay motivated (who)
  - Express your progress daily and weekly (for example, Meetup/Github/Youtube What, When, Where)
  - Follow a circulum (How)
 
-## Top learning resources for machine learning 
+## Top learning resources for machine learning to get you started
 
 ### 1. [100-Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 
