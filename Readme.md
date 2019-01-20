@@ -1,25 +1,31 @@
 # Why Machine Learning?
 
-### How can I apply it to my daily life?
+### How can I apply ML to my life?
  - Trending Skill for Data Scientists
- - Contribute to the field of Articial Intelligence (build a robot for example)
+ - Contribute to the field of Articial Intelligence (build your own C3PO for example)
  - ML used for app recommenders - Learning from pattern recognition (Products from Netflix, Amazon, Google, etc)
  - Computer Vision - Automous Cars, Drones, Image Recognition
  - Natural Language Processing - Digital Voice Assistant - Smart Speaker
- - Neural Networks - Deep Learning
+ - Neural Networks - Deep Learning - subset of Machine Learning - Facial Recognition
  
 <p align="center"><img src="https://user-images.githubusercontent.com/25274772/51422952-09202e80-1b6d-11e9-960a-c2fbdd1655a4.png" width="300" height="300" />
 
-
 ### What skills do I need?
 
- - Statistics, Python, Business, Communication
+ - Statistics, Python, Business, Communication/Visualization
 
 ### How long does it take to learn ML?
 - ML is a long journey. At least 10,000+ hours is the short answer (5-10 years full time)
 - You can make a serious impact in a year by dedicating a few hours a day with these resources.
 
-## Top learning resources for machine learning 
+### How to Study
+ - Find your motivation(why)
+ - Find some friends to stay motivated (for example, Meetup Who)
+ - Choose a discipline - machine learning has lots of free resources (What)
+ - Express your progress daily and weekly (for example, Github/Youtube When & Where)
+ - Follow a circulum (How)
+
+## Top learning resources for machine learning to get you started
 
 ### 1. [100-Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 
