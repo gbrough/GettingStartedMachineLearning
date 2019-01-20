@@ -1,6 +1,12 @@
 # Why Machine Learning?
 
-[YouTube video of this project](https://youtu.be/XbegBO0Dvoc)
+<p align="center">
+  <b></b><br>
+  <a href="https://youtu.be/XbegBO0Dvoc">YouTube of this Project</a> |
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/25274772/51436003-0723a180-1c39-11e9-8e15-f9eb4becdcba.png">
+</p>
+
 
 ### How can I apply ML to my life?
  - Trending Skill for Data Scientists
