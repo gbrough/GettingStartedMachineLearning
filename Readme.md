@@ -1,5 +1,7 @@
 # Why Machine Learning?
 
+[YouTube video of this project](https://youtu.be/XbegBO0Dvoc)
+
 ### How can I apply ML to my life?
  - Trending Skill for Data Scientists
  - Contribute to the field of Artificial Intelligence (build your own C3PO for example)
