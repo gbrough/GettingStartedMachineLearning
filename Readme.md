@@ -1,10 +1,8 @@
 # Why Machine Learning?
 
-<p align="center">
-  <b></b><br>
-  <a href="https://youtu.be/XbegBO0Dvoc">YouTube of this Project</a> |
-  <br><br>
-  <img src="https://user-images.githubusercontent.com/25274772/51436003-0723a180-1c39-11e9-8e15-f9eb4becdcba.png">
+<p align="center" >
+  <a href="https://youtu.be/XbegBO0Dvoc">YouTube of this Project</a> 
+  <img src="https://user-images.githubusercontent.com/25274772/51436003-0723a180-1c39-11e9-8e15-f9eb4becdcba.png" width="550" height="300">
 </p>
 
 
