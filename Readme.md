@@ -2,11 +2,11 @@
 
 ### How can I apply ML to my life?
  - Trending Skill for Data Scientists
- - Contribute to the field of Articial Intelligence (build your own C3PO for example)
+ - Contribute to the field of Artificial Intelligence (build your own C3PO for example)
  - ML used for app recommenders - Learning from pattern recognition (Products from Netflix, Amazon, Google, etc)
- - Computer Vision - Automous Cars, Drones, Image Recognition
+ - Computer Vision - Autonomous Cars, Drones, Image Recognition
  - Natural Language Processing - Digital Voice Assistant - Smart Speaker
- - Neural Networks - Deep Learning - subset of Machine Learning - Facial Recognition
+ - Neural Networks - Deep Learning - a subset of Machine Learning - Facial Recognition
  
 <p align="center"><img src="https://user-images.githubusercontent.com/25274772/51422952-09202e80-1b6d-11e9-960a-c2fbdd1655a4.png" width="300" height="300" />
 
@@ -23,23 +23,23 @@
  - Find some friends to stay motivated (for example, Meetup Who)
  - Choose a discipline - machine learning has lots of free resources (What)
  - Express your progress daily and weekly (for example, Github/Youtube When & Where)
- - Follow a circulum (How)
+ - Follow a curriculum (How)
 
 ## Top learning resources for machine learning to get you started
 
 ### 1. [100-Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 
- - 54 day structure
+ - 54-day structure (Must still be in development)
  - Excellent Slides and easy to follow.
  - Provided code and datasets
 
 ### 2. [Siraj Raval - ML in 3 months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)
- - 3 month structure
- - Mix of Videos, Udacity, Edx, and Coursera
+ - 3-month structure
+ - A Mix of Videos, Udacity, Edx, and Coursera
  - Great YouTube Channel
  
 ### 3. [ML Project Ideas](https://github.com/NirantK/awesome-project-ideas)
- - Text, Recommender, Forcaster, Vision Projects
+ - Text, Recommender, Forecaster, Vision Projects
  - Easy to get started on a project compared to [Kaggle](https://www.kaggle.com/)
 
 ### 4. [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -48,9 +48,9 @@
 - Does an excellent job with video visuals.
 
 ### 5. [Andrew Ng - Machine Learning - 112 Video Playlist](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
- - Andrew Ng is a professor at Standord and leading researcher in AI
+ - Andrew Ng is a professor at Stanford and a leading researcher in AI
  - Takes a few weeks to absorb 
 
 ### 6. [MIT Linear Algebra - 35 Video Playlist](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8)
 
-- Enthusastic professor makes learning linear algerbra fun
+- An enthusastic professor makes learning linear algebra fun
