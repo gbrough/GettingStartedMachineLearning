@@ -53,4 +53,4 @@
 
 ### 6. [MIT Linear Algebra - 35 Video Playlist](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8)
 
-- An enthusastic professor makes learning linear algebra fun
+- An enthusiastic professor makes learning linear algebra fun
