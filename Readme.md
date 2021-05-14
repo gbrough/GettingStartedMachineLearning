@@ -41,10 +41,6 @@
  - Excellent Slides and easy to follow.
  - Provided code and datasets
 
-### 2. [Siraj Raval - ML in 3 months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)
- - 3-month structure
- - A Mix of Videos, Udacity, Edx, and Coursera
- - Great YouTube Channel
  
 ### 3. [ML Project Ideas](https://github.com/NirantK/awesome-project-ideas)
  - Text, Recommender, Forecaster, Vision Projects
